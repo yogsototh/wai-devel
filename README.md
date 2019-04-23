@@ -1,3 +1,12 @@
+> This project has two homes.
+> It is ok to work in github, still, for a better decentralized web
+> please consider contributing (issues, PR, etc...) throught:
+>
+> https://gitlab.esy.fun/yogsototh/wai-devel
+
+---
+
+
 ### wai-devel
 
 [![Join the chat at https://gitter.im/urbanslug/wai-devel](https://badges.gitter.im/urbanslug/wai-devel.svg)](https://gitter.im/urbanslug/wai-devel?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
